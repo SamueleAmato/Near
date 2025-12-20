@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/release-v0.0.1-141449" alt=""/>
   <img src="https://img.shields.io/badge/written in-python-141449" alt=""/>
-  <img src="https://img.shields.io/badge/author-rdWei-141449" alt=""/>
+  <img src="https://img.shields.io/badge/author-SamueleAmato-141449" alt=""/>
 </p>
 
 <p align="center">
@@ -103,4 +103,4 @@ The Dorks Generator creates Google dorks tailored for various needs, such as sea
     <img src="images/issue.gif" width="600" height="200">
 </p>
 
-If you have encountered an issue with Near or would like to suggest an improvement, please report it in the [Issues section](https://github.com/rdWei/Near/issues).
+If you have encountered an issue with Near or would like to suggest an improvement, please report it in the [Issues section](https://github.com/SamueleAmato/Near/issues).
