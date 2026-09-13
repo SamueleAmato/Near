@@ -104,3 +104,8 @@ The Dorks Generator creates Google dorks tailored for various needs, such as sea
 </p>
 
 If you have encountered an issue with Near or would like to suggest an improvement, please report it in the [Issues section](https://github.com/SamueleAmato/Near/issues).
+
+
+autotune: for every website check 3 name thath obviusly dont exsist, take the lower count result as the count of when a profile dont exsist| for every website check 3 name thath obviusly exsist, take the higher count result as the count of when profile exsist
+
+if page.count simile a count.dont_exsist then retunr exsist, else return dont exist
